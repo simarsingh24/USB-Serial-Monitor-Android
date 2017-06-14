@@ -1,7 +1,7 @@
 <resources>
+    <string name="app_title">USB Serial Example</string>
     <string name="app_name">SerialUSBMonitor</string>
-    <string name="hello">Hello World, serialMonitor!</string>
-    <string name="clear_text">Clear</string>
-    <string name="send_text">Send</string>
-    <string name="begin_text">Begin</string>
+    <string name="refreshing">Refreshing...</string>
+    <string name="textBtnRTS">RTS - Request To Send</string>
+    <string name="textBtnDTR">DTR - Data Terminal Ready</string>
 </resources>
